@@ -1,0 +1,1 @@
+I used the `git add` command to add a file to the staging area.
