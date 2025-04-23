@@ -2,3 +2,4 @@ I've started learning how to use Git and its basic workflow.
 - git add
 - git commit
 - git rm
+- git diff
